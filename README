@@ -1,0 +1,6 @@
+Crazy Instagram graphql json result CRAWLER :))
+
+import Crawler from "./Crawler"
+CrawlerInstance = new Crawler()
+CrawlerInstance.crawlInstagramHtml( /* insta post url */);
+
